@@ -6,3 +6,5 @@ Please **DO NOT** upload any sensitive information to this repository.
 
 - [Concept Slide](https://github.com/MrBearTW/git-practice/blob/main/Meeting.pdf)
 - [Step by step instruction](https://github.com/MrBearTW/git-practice/blob/main/StepByStep.md)
+
+- 20231006
